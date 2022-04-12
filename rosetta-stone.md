@@ -9,7 +9,7 @@ various environments.
 
 Action                   | Linux       | macOS
 ------------------------ | -------     | ---------
-Finder                   | N/A         | ^+⌘+space
+GUI App Picker           | super       | ⌘+space
 View all desktops        | super       | ^+up
 Change keyboard language | super+space | 🌐
 
