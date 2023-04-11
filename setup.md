@@ -52,8 +52,8 @@ This is an aspirational section on setting up my macOS workspace from scratch.
    killall Dock
    ```
 
-1. [Hide the menu bar by default.](https://appleworld.today/archives/69599)
-   [You may use ^+F2 to reveal it.](https://superuser.com/a/1703883/1024852)
+1. [Hide the menu bar on desktop.](https://appleworld.today/archives/69599) Don't hide it on the built-in screen, because the notch bar prevents windows from expanding anyway.
+   [You may use ^+F2 to reveal the menu bar.](https://superuser.com/a/1703883/1024852)
 1. [Remove the Spotlight icon from the menu bar.](https://discussions.apple.com/thread/250065431)
    Its shortcut is well-known to me (⌘ + SPACE). I don't need this crutch.
 
